@@ -1,5 +1,4 @@
 # TermuxDeanon
-
 apt update
 
 termux-wake-unlock
