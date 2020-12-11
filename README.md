@@ -2,6 +2,8 @@
 
 apt update
 
+termux-wake-unlock
+
 apt install git -y
 
 apt install python -y
